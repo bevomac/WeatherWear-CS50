@@ -1,0 +1,46 @@
+{
+   "coord":{
+      "lon":-89.7005,
+      "lat":35.0531
+   },
+   "weather":[
+      {
+         "id":803,
+         "main":"Clouds",
+         "description":"broken clouds",
+         "icon":"04n"
+      }
+   ],
+   "base":"stations",
+   "main":{
+      "temp":53.74,
+      "feels_like":53.1,
+      "temp_min":49.96,
+      "temp_max":56.75,
+      "pressure":1013,
+      "humidity":91
+   },
+   "visibility":10000,
+   "wind":{
+      "speed":0,
+      "deg":0
+   },
+   "clouds":{
+      "all":75
+   },
+   "dt":1672534158,
+   "sys":{
+      "type":2,
+      "id":2011696,
+      "country":"US",
+      "sunrise":1672492000,
+      "sunset":1672527401
+   },
+   "timezone":-21600,
+   "id":4614748,
+   "name":"Collierville",
+   "cod":200
+}
+
+
+
